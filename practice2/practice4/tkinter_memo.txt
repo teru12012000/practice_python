@@ -1,0 +1,12 @@
+Tkinterのwidget
+
+・Button
+・Radiobutton
+・Checkbutton
+・Listbox
+・Entry
+・Message
+・Text
+・Spinbox
+
+詳しくはwebで！！
