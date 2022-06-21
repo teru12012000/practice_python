@@ -12,3 +12,4 @@ Youtubeをみて勉強(VTuberサプーさんの動画が主)
 ## 内容
 - practice1は基礎
 - practice2は実践編
+- minitestはサプーさんの出題の問題
